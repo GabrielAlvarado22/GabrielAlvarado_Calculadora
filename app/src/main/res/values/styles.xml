@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextoPrincipal">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="Signos">
+        <item name="android:backgroundTint">@color/orangeF</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginStart">3dp</item>
+        <item name="android:layout_marginEnd">3dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="Numeros">
+        <item name="android:backgroundTint">@color/vino</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:layout_marginStart">3dp</item>
+        <item name="android:layout_marginEnd">3dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+</resources>
